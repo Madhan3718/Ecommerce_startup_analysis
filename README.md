@@ -7,6 +7,7 @@ As a data analyst, I did various analysis based on business expectations as foll
 1. Dashboards for different stakeholders which helps in tracking business metrics and KPIs.
      you can find them here:
     Marketing manager Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmM2MjBjZDItY2JlMC00NTIzLTk1Y2MtODU4NjQyNGYwYTZlIiwidCI6IjZmNGM2ZTljLTQwMzUtNDczYS1iZjFkLTExZDZiMzFiYjU2OSJ9
+   
     CEO Dashbaord              : https://app.powerbi.com/view?r=eyJrIjoiNjdlZDUzODMtMzFiZi00MzA2LTgzYTItZDFjYzYxYjcyZWNmIiwidCI6IjZmNGM2ZTljLTQwMzUtNDczYS1iZjFkLTExZDZiMzFiYjU2OSJ9
 
   
