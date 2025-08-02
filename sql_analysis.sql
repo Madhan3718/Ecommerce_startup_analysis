@@ -129,7 +129,7 @@ ON
 	-----------------------------------------------------------------------------------------------------------
 -- New Vs. Repeat Channel Patterns: Analyze the channels through which repeat customers return to our website, comparing them 
 -- to new sessions? Specifically,  interested in understanding if repeat customers predominantly come through direct type-in or if 
--- there’s a significant portion that originates from paid search ads. This analysis should cover the period from the beginning of 2014 to the present date.
+-- thereâ€™s a significant portion that originates from paid search ads. This analysis should cover the period from the beginning of 2014 to the present date.
 
 WITH CustomerOrders AS (
     SELECT 
