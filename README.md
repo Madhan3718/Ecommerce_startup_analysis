@@ -12,8 +12,8 @@ As a data analyst, I did various analysis based on business expectations as foll
 
   
 ## 3. Detailed analysis of performance of business, sales and  performance of new product
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/223ee591-7468-48c0-8ee7-0019e07fa5cb" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/c5256651-01d7-45ca-895d-3cb630ae6125" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/223ee591-7468-48c0-8ee7-0019e07fa5cb" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/c5256651-01d7-45ca-895d-3cb630ae6125" />
 
 
 ## 4. Insights and Reports to tell a compelling story to investors(Investors Deck).
