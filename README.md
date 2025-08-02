@@ -17,10 +17,10 @@ As a data analyst, I did various analysis based on business expectations as foll
 
 
 ## 4. Insights and Reports to tell a compelling story to investors(Investors Deck).
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/8f7c5cfa-478d-420c-a20e-5faaa8d53af5" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/bcb6f8fa-dc4e-4113-9806-a7f33d2f27ac" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/dbf78ab9-96e4-43df-982b-3af0a7de56f2" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2d6ca619-b8f4-4c5d-b630-fedbc0c67293" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/8f7c5cfa-478d-420c-a20e-5faaa8d53af5" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/bcb6f8fa-dc4e-4113-9806-a7f33d2f27ac" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/dbf78ab9-96e4-43df-982b-3af0a7de56f2" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/2d6ca619-b8f4-4c5d-b630-fedbc0c67293" />
 
 
 
